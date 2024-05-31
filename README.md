@@ -1,2 +1,1 @@
-# CV
-CV Petcu Andora Elena
+# Visit my site at: https://andorapetcu.github.io/
